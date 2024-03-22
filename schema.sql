@@ -1,0 +1,1 @@
+def append(self, data):
